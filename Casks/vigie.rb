@@ -1,6 +1,6 @@
 cask "vigie" do
-  version "0.3.0"
-  sha256 "d7a8c5cc4f84fb0ccc868500e5609d7200e054112189377c99500b1c6d655d38"
+  version "0.3.1"
+  sha256 "5553fb78eb402a590421af10559fc634487595fdc06c108f3260b9ce65041f5a"
 
   url "https://github.com/MarJC5/vigie/releases/download/v#{version}/Vigie-#{version}.dmg"
   name "Vigie"
